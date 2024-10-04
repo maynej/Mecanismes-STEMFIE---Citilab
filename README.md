@@ -25,6 +25,7 @@ Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-
 
 ## QR
 
+https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FMecanismes-STEMFIE---Citilab&s=6&e=m
 
 
 
