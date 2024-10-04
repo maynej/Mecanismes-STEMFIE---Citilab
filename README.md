@@ -4,7 +4,7 @@ Sistemes de mecanismes per la transformació del moviment utilitzant el sistema 
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
-Realitzat per el Citilab [Jordi Mayné](https://www.citilab.eu/) <img src="Imatges/Logo3senseFons.png" width="50" />
+Aquest projecte ha estat realitzat per el Citilab https://www.citilab.eu/ <img src="Imatges/LogoCitilab.jpg" width="50" />
 
 Pretén estudiar el moviments mitjançant diferents mecanismes i sota el control d'una placa educativa ED1 dissenyada en el Citilab.
 
