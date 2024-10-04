@@ -16,8 +16,15 @@ STL per imprimir [aquí](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Engrenatges |![](Imatges/Engrenatges.png) | [Arduino Nano](CPU/ArduinoNanoStemfie.stl)
-Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [18650](CPU/18650Holder2Stemfie.stl)
+Engrenatges |![](Imatges/Engrenatges.png) | [Engrenatges](STL/Engranatges.stl)
+Kit 1 |![18650](Imatges/Kit1.png) | [Kit 1](STL/STEMFIE-kit1.stl)
+Kit 2 |![18650](Imatges/Kit2.png) | [Kit 2](STL/STEMFIE-kit2.stl)
+Eines |![18650](Imatges/Tools.png) | [Eines](STL/STEMFIE-tools.stl)
+Gallina |![18650](Imatges/gallina.png) | [Gallina](STL/gallina.stl)
+Conill |![18650](Imatges/conill.png) | [Conill](STL/conill.stl)
+Dofí |![18650](Imatges/dofi.png) | [Dofí](STL/dofi.stl)
+Flor |![18650](Imatges/flor.png) | [Flor](STL/flor.stl)
+Abella |![18650](Imatges/abella.png) | [Abella](STL/abella.stl)
 
 ## Llicència
 
