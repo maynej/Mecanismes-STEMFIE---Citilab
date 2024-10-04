@@ -16,7 +16,7 @@ STL per imprimir [aquí](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Engrenatges |![](Imatges/Engrenatges.png) | [Engrenatges](STL/Engranatges.stl)
+Engrenatges |![](Imatges/Engranatges.png) | [Engrenatges](STL/Engranatges.stl)
 Kit 1 |![](Imatges/Kit1.png) | [Kit 1](STL/STEMFIE-kit1.stl)
 Kit 2 |![](Imatges/Kit2.png) | [Kit 2](STL/STEMFIE-kit2.stl)
 Eines |![](Imatges/Tools.png) | [Eines](STL/STEMFIE-tools.stl)
