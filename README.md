@@ -8,9 +8,9 @@ Aquest projecte ha estat realitzat pel [Citilab](https://www.citilab.eu/)    <im
 
 Pretén estudiar el moviments mitjançant diferents mecanismes i sota el control d'una placa educativa ED1 dissenyada en el Citilab.
 
-Lleva <img src="Imatges/Lleva.jpg" width="150" />   <img src="Imatges/video_2023-05-20_20-27-54.mp4" width="150" />  
-Engranatge <img src="Imatges/Engranatges.jpg" width="180" />    
-Biela Manovella <img src="Imatges/BielaManovella.jpg" width="300" />
+
+
+## Lleva <img src="Imatges/Lleva2.jpg" width="200" />  Engranatge <img src="Imatges/Engranatge.jpg" width="200" />  Biela Manovella <img src="Imatges/Biela.jpg" width="200" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Doc). També en castellà i anglés.
 
@@ -20,7 +20,7 @@ STL per imprimir [aquí](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Engrenatges |![](Imatges/Engranatges.png) | [Engrenatges](STL/Engranatges.stl)
+Engranatges |![](Imatges/Engranatges.png) | [Engrenatges](STL/Engranatges.stl)
 Kit 1 |![](Imatges/Kit1.png) | [Kit 1](STL/STEMFIE-kit1.stl)
 Kit 2 |![](Imatges/Kit2.png) | [Kit 2](STL/STEMFIE-kit2.stl)
 Eines |![](Imatges/Tools.png) | [Eines](STL/STEMFIE-tools.stl)
