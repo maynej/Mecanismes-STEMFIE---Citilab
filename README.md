@@ -8,7 +8,7 @@ Aquest projecte ha estat realitzat pel [Citilab](https://www.citilab.eu/)    <im
 
 Pretén estudiar el moviments mitjançant diferents mecanismes i sota el control d'una placa educativa ED1 dissenyada en el Citilab.
 
-<img src="Imatges/Lleva.jpg" width="100" /> <img src="Imatges/Engranatges.jpg" width="200" />
+<img src="Imatges/Lleva.jpg" width="150" />     <img src="Imatges/Engranatges.jpg" width="180" />    
 <img src="Imatges/BielaManovella.jpg" width="300" />
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Doc). També en castellà i anglés.
 
