@@ -11,7 +11,9 @@ Pretén estudiar el moviments mitjançant diferents mecanismes i sota el control
 ## Lleva <img src="Imatges/Lleva2.jpg" width="200" />  Engranatge <img src="Imatges/Engranatge.jpg" width="200" /> 
 ## Biela Manovella <img src="Imatges/Biela.jpg" width="200" />
 
-[Videos](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Videos).
+
+Se pueden ver [Videos](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Videos).
+
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Doc). També en castellà i anglés.
 
